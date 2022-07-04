@@ -1,0 +1,117 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif; */
+/* =============HEADER SECTION================== */
+.head-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: blue;
+}
+
+.navbar{
+    display: flex;
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+    padding: 10px;
+}
+
+.header a{
+    text-decoration: none;
+}
+
+
+
+.header h1,a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: white;
+
+}
+
+.header a:hover{
+    color: black;
+}
+/* ====================================================== */
+
+.home-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    background-color: beige;
+    
+}
+
+.home-main img{
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+.home-info{
+    padding: 80px;
+}
+
+.home-info-main{
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.home-main .social-link a{
+    color: blue;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.home-main .social-link a:hover{
+    color: black;
+}
+/* =====================Education start=================== */
+.education-info{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: azure
+}
+.education-info h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.table-info{
+    margin: 10px auto;
+
+}
+/* ====================Skills start====================================== */
+.skills-info{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
+}
+
+.skills-info img{
+    height: 20vh;
+    width: 15%;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+/* ===========================footer start===================== */
+.footer{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+/* ============================================== */
+
+.contact{
+    text-align: center;
+}
+
+.contact h1{
+    font-family: 'Montserrat', sans-serif;
+}
+/* ==================================================== */
+
+
+
